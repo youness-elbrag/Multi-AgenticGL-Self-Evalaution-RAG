@@ -1,0 +1,10 @@
+langchain_community
+tiktoken 
+langchainhub
+chromadb 
+langchain 
+langgraph 
+langchain-text-splitters 
+sentence_transformers
+streamlit
+pandas
