@@ -21,7 +21,8 @@ class LLM:
         if self.type_return == "JSON":
             return ChatOllama(model=self.default_model, format="json", temperature=self.temp)
         else:
-            return ChatOpenAI(api_key="ollama",model=self.default_model,base_url="http://localhost:11434/v1",temperature= 0)
+            #ChatOpenAI(api_key="ollama",model=self.default_model,base_url="http://localhost:11434/v1",temperature= 0)
+            return ChatOllama(model=self.default_model, temperature=self.temp)
 
     def list_model(self, model_name):
         """

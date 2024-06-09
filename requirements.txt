@@ -10,5 +10,6 @@ streamlit
 pandas
 streamlit_option_menu
 streamlit
+langchain_openai
 
 
