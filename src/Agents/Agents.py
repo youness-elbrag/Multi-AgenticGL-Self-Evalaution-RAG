@@ -1,12 +1,12 @@
 from langchain_core.output_parsers import JsonOutputParser
 from langchain_core.output_parsers import StrOutputParser
-from utils import format_docs
+from ..utils import format_docs
 from .Ollama import LLM
-from langchain_core.templates import PromptTemplate 
+from langchain.prompts import PromptTemplate 
 
  # Assuming this is where PromptTemplate is imported from
 
-def Grader_Agent(query: str, prompt_template: PromptTemplate, vector_db, llm_model: str, temp: float) -> dict:
+def Grader_Agent(query: str, prompt_template: PromptTemplate, context, llm_model: str, temp: float) -> dict:
     """
     Grades the provided query using the specified LLM model and agent type.
 
@@ -21,12 +21,11 @@ def Grader_Agent(query: str, prompt_template: PromptTemplate, vector_db, llm_mod
     Returns:
         dict: The graded response.
     """
-    context = vector_db.invoke(query)
     documents = format_docs(context)
     llm_instance = LLM(type_return="JSON", temp=temp, model_name=llm_model, name_agent="Grader")
     llm = llm_instance.agent()
     retrieval_grader = prompt_template | llm | JsonOutputParser()
-    graded_response = retrieval_grader.invoke({"project": prompt_template, "document": documents})
+    graded_response = retrieval_grader.invoke({"project": query, "document": documents})
     return graded_response
 
 # result = grader(query, prompt_template, vector_db, llm_model, agent_type, temp)
@@ -34,7 +33,7 @@ def Grader_Agent(query: str, prompt_template: PromptTemplate, vector_db, llm_mod
 
 
 
-def planner_agent(query: str, prompt_template: PromptTemplate, retriever, llm_model: str, temp: float) -> dict:
+def planner_agent(query: str, prompt_template: PromptTemplate, retriever, llm_model: str, temp: float) -> str:
     """
     Plans tasks based on the provided query using the specified LLM model.
 

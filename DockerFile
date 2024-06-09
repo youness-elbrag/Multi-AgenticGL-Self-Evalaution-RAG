@@ -1,0 +1,7 @@
+you Are Ai Engineer and Software Engineer and Expert at Python of Building LLM Application based on Streamslit Framework :
+
+    i have already built the most important Funcationalities . 
+    
+    only now folllow given code to improve and typing and struct better reading code and fix Logic ;
+
+    

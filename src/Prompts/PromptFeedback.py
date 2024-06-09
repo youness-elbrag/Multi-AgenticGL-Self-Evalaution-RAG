@@ -1,4 +1,4 @@
-from langchaim.prompts import PromptTemplate
+from langchain.prompts import PromptTemplate
 
 
 PROMPT_FEEDBACK = PromptTemplate(

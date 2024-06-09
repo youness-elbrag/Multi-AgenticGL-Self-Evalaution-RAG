@@ -1,6 +1,7 @@
 import os
 import subprocess
 from langchain_community.chat_models import ChatOllama
+from langchain_openai import ChatOpenAI
 
 class LLM:
     def __init__(self, type_return=None, temp=None, model_name="llama3", name_agent=None):
@@ -20,7 +21,7 @@ class LLM:
         if self.type_return == "JSON":
             return ChatOllama(model=self.default_model, format="json", temperature=self.temp)
         else:
-            return ChatOllama(model=self.default_model, temperature=self.temp)
+            return ChatOpenAI(api_key="ollama",model=self.default_model,base_url="http://localhost:11434/v1",temperature= 0)
 
     def list_model(self, model_name):
         """
@@ -47,8 +48,11 @@ class LLM:
             self.local_llm.append(model_name)
             return model_name
 
-# Example usage:
-# llm_instance = LLM(type_return="JSON", temp=0.7, name_agent="example_agent")
-# model_instance = llm_instance.agent()
-# print(model_instance)
-# print(llm_instance.list_model("new_model"))
+if __name__ == "__main__":
+    llm_instance = LLM(type_return=None, temp=0.0, name_agent="example_agent")
+    model_instance = llm_instance.agent()
+    # print(model_instance)
+    # print(llm_instance.list_model("new_model"))
+    
+    respond = model_instance.invoke("say hi")
+    print(respond)
