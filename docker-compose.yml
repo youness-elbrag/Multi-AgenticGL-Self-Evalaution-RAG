@@ -1,0 +1,27 @@
+version: '3.9'
+
+services:
+  streamlit:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./DATA:/app/DATA
+      - ./LOAD:/app/LOAD
+    environment:
+      - TOKENIZERS_PARALLELISM=false
+      - CUDA_VISIBLE_DEVICES=false
+      - DATA=/app/DATA
+      - LOAD=/app/LOAD
+
+  ollama:
+    build:
+      context: .
+      dockerfile: Dockerfile.ollama
+    volumes:
+      - ./DATA:/app/DATA
+      - ./LOAD:/app/LOAD
+    environment:
+      - PYTHONUNBUFFERED=1

@@ -1,0 +1,13 @@
+FROM python:3.12.3-alpine
+
+WORKDIR /app
+
+RUN apk update && apk add --no-cache bash
+
+COPY Ollama.sh .
+
+RUN chmod +x Ollama.sh
+
+ENV PYTHONUNBUFFERED=1
+
+CMD ["bash ./Ollama.sh"]

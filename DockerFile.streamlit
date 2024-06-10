@@ -1,0 +1,33 @@
+FROM python:3.12.3-alpine
+
+ENV PYTHONUNBUFFERED=1
+ENV TOKENIZERS_PARALLELISM=false
+ENV DATA=/app/DATA
+ENV LOAD=/app/LOAD
+
+WORKDIR /app
+
+RUN apk update && apk add --no-cache \
+    gcc \
+    g++ \
+    musl-dev \
+    libffi-dev \
+    openssl-dev \
+    make \
+    bash
+
+COPY requirements.txt requirements.txt
+RUN pip install --upgrade pip
+RUN pip install -r requirements.txt
+
+COPY . .
+
+ENV STREAMLIT_SERVER_HEADLESS true
+ENV STREAMLIT_SERVER_PORT 8501
+
+EXPOSE 8501
+
+CMD ["streamlit", "run", "app.py"]
+
+
+

@@ -1,13 +1,11 @@
 import os
 import subprocess
 from langchain_community.chat_models import ChatOllama
-from langchain_openai import ChatOpenAI
 
 class LLM:
     def __init__(self, type_return=None, temp=None, model_name="llama3", name_agent=None):
-        self.local_llm = ["llama3", "mistral"]
-        if model_name not in self.local_llm:
-            self.list_model(model_name)
+
+        self.local_llm = ["llama3"]
         self.default_model = model_name
         os.environ['LOCAL_LLM'] = ','.join(self.local_llm)
         self.type_return = type_return
@@ -18,11 +16,17 @@ class LLM:
         """
         Initialize the ChatOllama model based on the return type and temperature.
         """
+
+        if self.default_model not in self.local_llm:
+            model = self.list_model(self.default_model)
+        else:
+            model = self.default_model
+        
         if self.type_return == "JSON":
-            return ChatOllama(model=self.default_model, format="json", temperature=self.temp)
+            return ChatOllama(model=model, format="json", temperature=self.temp)
         else:
             #ChatOpenAI(api_key="ollama",model=self.default_model,base_url="http://localhost:11434/v1",temperature= 0)
-            return ChatOllama(model=self.default_model, temperature=self.temp)
+            return ChatOllama(model=model, temperature=self.temp)
 
     def list_model(self, model_name):
         """
