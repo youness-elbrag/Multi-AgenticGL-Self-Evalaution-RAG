@@ -11,6 +11,25 @@ based on time Duration a multi-agent system (MAS) that predicts tasks Plan Schud
 completion times based on project descriptions Task using LTSM model. The Modeling AI personalizes predictions by considering user-defined
 The project description to Models And Predicting (Tasks Pipelines - Duration Time of Each tasks) from previous projects.
 
+
+### Run the Application with Shell Script 
+
+1. Run the shell script to install the required packages and libraries:
+
+```bash
+sudo chmod +x run.sh && ./run.sh
+```
+2. run to server Ollama Open Source Model 
+
+```bash 
+sudo chmod +x Ollama.sh && ./Ollama.sh
+```
+
+3. Run the application Direclty with Shell Following 
+
+```bash 
+sudo chmod +x app.sh && ./app.sh
+```
 ## Project Plan Steps :
 
 1. **Data Collection and Preprocessing:** Gather historical project data (task descriptions, pipelines, durations)  and prepare it for LSTM model training.
