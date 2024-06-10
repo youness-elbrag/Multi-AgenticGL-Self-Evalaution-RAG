@@ -19,4 +19,3 @@ fi
 
 clear
 
-streamlit run app.py || error_exit "Failed to run Streamlit app."

@@ -23,3 +23,5 @@ ollama pull llama3
 echo "Verifying Ollama installation..."
 ollama -v
 echo "Setup completed successfully."
+
+
