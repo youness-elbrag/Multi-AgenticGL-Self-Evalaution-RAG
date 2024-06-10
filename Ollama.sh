@@ -23,4 +23,3 @@ ollama pull llama3
 echo "Verifying Ollama installation..."
 ollama -v
 echo "Setup completed successfully."
-echo 'pysqlite3-binary==0.5.2.post3' >> requirements.txt
