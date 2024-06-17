@@ -14,7 +14,7 @@ curl -s https://ollama.ai/install.sh | sh
 echo "Starting Ollama server..."
 ollama serve &
 
-export OLLAMA_HOST="0.0.0.0:11434"
+export OLLAMA_HOST="127.0.0.1:11434"
 echo "Environment variable OLLAMA_HOST set to $OLLAMA_HOST"
 
 echo "Pulling Llama3 model..."

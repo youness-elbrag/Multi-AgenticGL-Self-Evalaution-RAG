@@ -1,0 +1,478 @@
+Tasks,type,total_hours,clean_text
+FP - Delivery of Novec Gas via new contractor Type Task Task Dependent,Task Dependent,16360,delivery novec contractor type task task dependent
+Fixed aragement of tanks Type Task Finish Milestone,Finish Milestone,31327,fixed aragement tank type task finish milestone
+BA - Validation of the new Tanks Positions Type Task Finish Milestone,Finish Milestone,30503,validation tank position type task finish milestone
+Deivery Of Valves Type Task Start Milestone,Start Milestone,17488,deivery valve type task start milestone
+Delivery Of Valves Type Task Start Milestone,Start Milestone,21018,delivery valve type task start milestone
+Delivery Of Valves Type Task Start Milestone,Start Milestone,20224,delivery valve type task start milestone
+New contract PO Awarded and Signed by OCP for Terminal Station and Beni Amir Type Task Finish Milestone,Finish Milestone,33005,contract awarded signed terminal station beni amir type task finish milestone
+Concrétisation avenant de transfert reliquat du projet de CIM à SIIT Type Task Task Dependent,Task Dependent,15704,concrétisation avenant transfert reliquat projet siit type task task dependent
+Slurry Tks - Lancement AO _ Silica Line Phase 2 Type Task Finish Milestone,Finish Milestone,33815,slurry lancement silica line phase type task finish milestone
+Slurry Tks - Ouverture des offres techniques  _ Silica Line Phase 2 Type Task Finish Milestone,Finish Milestone,33869,slurry ouverture offres technique silica line phase type task finish milestone
+Slurry Tks - Rapport d’harmonisation  _ Silica Line Phase 2 Type Task Finish Milestone,Finish Milestone,33533,slurry rapport d’harmonisation silica line phase type task finish milestone
+Slurry Tks - Ouverture commerciale _ Silica Line Phase 2 Type Task Finish Milestone,Finish Milestone,33173,slurry ouverture commerciale silica line phase type task finish milestone
+Slurry Tks - Choix Commercial  _ Silica Line Phase 2 Type Task Finish Milestone,Finish Milestone,33005,slurry choix commercial silica line phase type task finish milestone
+Slurry Tks - PO Awarded and Signed by OCP _ Silica Line Type Task Finish Milestone,Finish Milestone,15696,slurry awarded signed silica line type task finish milestone
+Slurry Tks - Lancement AO _ Phase 2 Tanks Type Task Finish Milestone,Finish Milestone,31669,slurry lancement phase tank type task finish milestone
+Slurry Tks - Ouverture des offres techniques  _ Phase 2 Tanks Type Task Finish Milestone,Finish Milestone,31669,slurry ouverture offres technique phase tank type task finish milestone
+Slurry Tks - Rapport d’harmonisation  _ Phase 2 Tanks Type Task Finish Milestone,Finish Milestone,31677,slurry rapport d’harmonisation phase tank type task finish milestone
+Slurry Tks - Ouverture commerciale _ Phase 2 Tanks Type Task Finish Milestone,Finish Milestone,31445,slurry ouverture commerciale phase tank type task finish milestone
+Slurry Tks - Choix Commercial  _ Phase 2 Tanks Type Task Finish Milestone,Finish Milestone,31375,slurry choix commercial phase tank type task finish milestone
+Site Mobilize after COVID Period Type Task Finish Milestone,Finish Milestone,22211,site mobilize covid period type task finish milestone
+FP - Delivery of remaining Novec Gas accessories Type Task Finish Milestone,Finish Milestone,17704,delivery remaining novec accessory type task finish milestone
+Slurry Tks HS - Essai Hydrostatique Type Task Task Dependent,Task Dependent,20340,slurry essai hydrostatique type task task dependent
+Départ pour la communication Type Task Finish Milestone,Finish Milestone,22339,départ pour communication type task finish milestone
+TS - Tanks Civil works [LOE] Type Task Level Of Effort,Level Of Effort,18978,tank civil work type task level effort
+TS - Mechanical Parts [LOE] Type Task Level Of Effort,Level Of Effort,17564,mechanical part type task level effort
+TS - Add. Tanks Electrical Works [LOE] Type Task Level Of Effort,Level Of Effort,19048,tank electrical work type task level effort
+TS -  Video Surveillance System [LOE] Type Task Level Of Effort,Level Of Effort,16048,video surveillance system type task level effort
+DO- Electrical works [LOE] Type Task Level Of Effort,Level Of Effort,1,electrical work type task level effort
+DO - Piping Works [LOE] Type Task Level Of Effort,Level Of Effort,1,piping work type task level effort
+TS - Transfer - Electrical Works  [LOE] Type Task Level Of Effort,Level Of Effort,15712,transfer electrical work type task level effort
+TS - Silica Line - Electrical Works  [LOE] Type Task Level Of Effort,Level Of Effort,23058,silica line electrical work type task level effort
+HS - Access  Structural [LOE] Type Task Level Of Effort,Level Of Effort,1,access structural type task level effort
+BA - Access Structural  [LOE] Type Task Level Of Effort,Level Of Effort,1,access structural type task level effort
+TS - Loop Civil works [LOE] Type Task Level Of Effort,Level Of Effort,1,loop civil work type task level effort
+TS - Loop Structural Part [LOE] Type Task Level Of Effort,Level Of Effort,1,loop structural part type task level effort
+TS - Loop Piping Works [LOE] TO BE CHEKED Type Task Level Of Effort,Level Of Effort,1,loop piping work cheked type task level effort
+PMS & VS - Structural Parts [LOE] Type Task Level Of Effort,Level Of Effort,1,structural part type task level effort
+DO-  Video Surveillance System [LOE] Type Task Level Of Effort,Level Of Effort,1,video surveillance system type task level effort
+TS - Transfer Civil Works [LOE] Type Task Level Of Effort,Level Of Effort,1,transfer civil work type task level effort
+TS - Transfer Piping Works [LOE] Type Task Level Of Effort,Level Of Effort,22219,transfer piping work type task level effort
+TS - Silica Line Structural Parts [LOE] Type Task Level Of Effort,Level Of Effort,23464,silica line structural part type task level effort
+TS - Add. Tanks Structural Parts [LOE] Type Task Level Of Effort,Level Of Effort,17636,tank structural part type task level effort
+TS - Silica Line Piping Works [LOE] Type Task Level Of Effort,Level Of Effort,20488,silica line piping work type task level effort
+TS - Add Tanks Piping Works [LOE] Type Task Level Of Effort,Level Of Effort,19340,tank piping work type task level effort
+TS - Access Structural parts [LOE] Type Task Level Of Effort,Level Of Effort,1,access structural part type task level effort
+DO - Add. Tanks Structural Parts [LOE] Type Task Level Of Effort,Level Of Effort,1,tank structural part type task level effort
+HS -  Video Surveillance System [LOE] Type Task Level Of Effort,Level Of Effort,16195,video surveillance system type task level effort
+BA - Civil works [LOE] Type Task Level Of Effort,Level Of Effort,28337,civil work type task level effort
+BA - Structural Parts [LOE] Type Task Level Of Effort,Level Of Effort,29135,structural part type task level effort
+BA - Mechanical Parts [LOE] Type Task Level Of Effort,Level Of Effort,22609,mechanical part type task level effort
+BA - Piping Works [LOE] Type Task Level Of Effort,Level Of Effort,23205,piping work type task level effort
+BA - Electrical works [LOE] Type Task Level Of Effort,Level Of Effort,26617,electrical work type task level effort
+BA -  Video Surveillance System [LOE] Type Task Level Of Effort,Level Of Effort,16048,video surveillance system type task level effort
+DO - Structural Parts [LOE] Type Task Level Of Effort,Level Of Effort,1,structural part type task level effort
+DO - Mechanical Parts [LOE] Type Task Level Of Effort,Level Of Effort,1,mechanical part type task level effort
+HS - Civil works [LOE] Type Task Level Of Effort,Level Of Effort,17876,civil work type task level effort
+HS - Add. Tanks Structural Parts [LOE] Type Task Level Of Effort,Level Of Effort,17636,tank structural part type task level effort
+TS - Silica Line Civil works [LOE] Type Task Level Of Effort,Level Of Effort,25072,silica line civil work type task level effort
+HS - Mechanical Parts [LOE] Type Task Level Of Effort,Level Of Effort,17564,mechanical part type task level effort
+HS - Electrical works [LOE] Type Task Level Of Effort,Level Of Effort,19944,electrical work type task level effort
+HS - Fire Protection [LOE] Type Task Level Of Effort,Level Of Effort,16384,fire protection type task level effort
+HS  - Piping Works [LOE] Type Task Level Of Effort,Level Of Effort,19340,piping work type task level effort
+Loop - Commissioning & Start-Up Type Task Task Dependent,Task Dependent,20507,loop commissioning startup type task task dependent
+Loop - DWS Loop Ready for SOP Type Task Finish Milestone,Finish Milestone,20507,loop loop ready type task finish milestone
+Loop - Install Pressure Transmitter & Cold Loop Check Type Task Task Dependent,Task Dependent,20507,loop install pressure transmitter cold loop check type task task dependent
+TSF - Pre-Cx Type Task Task Dependent,Task Dependent,17105,precx type task task dependent
+TSF - Commissioning Type Task Task Dependent,Task Dependent,16865,commissioning type task task dependent
+TSF - SOP Type Task Finish Milestone,Finish Milestone,17345,type task finish milestone
+Silica Line - Commissioning Type Task Task Dependent,Task Dependent,25216,silica line commissioning type task task dependent
+Silica Line - Commissioning Complete Type Task Finish Milestone,Finish Milestone,27144,silica line commissioning complete type task finish milestone
+Silica Line - SOP Type Task Start Milestone,Start Milestone,27208,silica line type task start milestone
+VDS - Commissioning Type Task Task Dependent,Task Dependent,16168,commissioning type task task dependent
+SOP - VDS Works Type Task Finish Milestone,Finish Milestone,16488,work type task finish milestone
+Fire Protection - Commissioning Type Task Task Dependent,Task Dependent,17056,fire protection commissioning type task task dependent
+SOP - Fire Protection Type Task Finish Milestone,Finish Milestone,17712,fire protection type task finish milestone
+Access Upgrade - Commissioning Type Task Task Dependent,Task Dependent,16528,access upgrade commissioning type task task dependent
+SOP - Structural Upgrades Type Task Finish Milestone,Finish Milestone,16536,structural upgrade type task finish milestone
+Slurry Tks - Pre-Cx at at TS Type Task Task Dependent,Task Dependent,28698,slurry precx type task task dependent
+Slurry Tks - Commissioning Complete at TS Type Task Task Dependent,Task Dependent,28242,slurry commissioning complete type task task dependent
+Slurry Tks - Commissioning at  TS Type Task Task Dependent,Task Dependent,28192,slurry commissioning type task task dependent
+Slurry Tks - Commissioning Complete at DO Type Task Finish Milestone,Finish Milestone,27144,slurry commissioning complete type task finish milestone
+Slurry Tks - Commissioning at  DO Type Task Task Dependent,Task Dependent,15816,slurry commissioning type task task dependent
+Slurry Tks - Pre-Cx at DO Type Task Task Dependent,Task Dependent,15816,slurry precx type task task dependent
+Slurry Tks - Pre-Cx at Beni Amir Type Task Task Dependent,Task Dependent,29231,slurry precx beni amir type task task dependent
+Slurry Tks - Commissioning at Beni Amir Type Task Task Dependent,Task Dependent,29348,slurry commissioning beni amir type task task dependent
+Slurry Tks - Commissioning Complete at Beni Amir Type Task Task Dependent,Task Dependent,28991,slurry commissioning complete beni amir type task task dependent
+Slurry Tks - Pre-Cx at HS Type Task Task Dependent,Task Dependent,20061,slurry precx type task task dependent
+Slurry Tks - Commissioning Complete at HS Type Task Finish Milestone,Finish Milestone,20616,slurry commissioning complete type task finish milestone
+Slurry Tks - Commissioning at  HS Type Task Task Dependent,Task Dependent,19820,slurry commissioning type task task dependent
+PL_Consolidated contract with Pipe Loop Type Task Finish Milestone,Finish Milestone,22740,plconsolidated contract pipe loop type task finish milestone
+Slurry Pumps - CAD Complete Type Task Finish Milestone,Finish Milestone,22740,slurry pump complete type task finish milestone
+Slurry Pumps - Award PO Type Task Task Dependent,Task Dependent,22692,slurry pump award type task task dependent
+Slurry Pumps - PO Awarded and Signed by OCP Type Task Finish Milestone,Finish Milestone,22692,slurry pump awarded signed type task finish milestone
+Slurry Pumps - LOI Issued Type Task Finish Milestone,Finish Milestone,22740,slurry pump issued type task finish milestone
+Slurry Pumps - Issue LOI Type Task Task Dependent,Task Dependent,22740,slurry pump issue type task task dependent
+Slurry Pumps - Vendor Receive Down Payment Type Task Task Dependent,Task Dependent,22692,slurry pump vendor receive payment type task task dependent
+Slurry Pumps - Provide Pump Loads to TS EPC Type Task Task Dependent,Task Dependent,22740,slurry pump provide pump load type task task dependent
+Slurry Pumps - Final Clarifications between Vendor & JESA Type Task Task Dependent,Task Dependent,22740,slurry pump final clarification vendor jesa type task task dependent
+Slurry Pumps - CAD Preparation Type Task Task Dependent,Task Dependent,22740,slurry pump preparation type task task dependent
+Slurry Pumps - Orig. Estimate 5 Months Impact 3 Additional mos. Type Task Task Dependent,Task Dependent,22692,slurry pump orig estimate month impact additional type task task dependent
+Slurry Pumps - Total Potential Impact Type Task Level Of Effort,Level Of Effort,1,slurry pump total potential impact type task level effort
+Slurry Valves - CAD Complete Type Task Finish Milestone,Finish Milestone,23052,slurry valve complete type task finish milestone
+Slurry Valves - PO Awarded and Signed by OCP Type Task Finish Milestone,Finish Milestone,23052,slurry valve awarded signed type task finish milestone
+Slurry Valves - LOI Issued Type Task Finish Milestone,Finish Milestone,23052,slurry valve issued type task finish milestone
+Slurry Valves - Issue LOI Type Task Task Dependent,Task Dependent,23052,slurry valve issue type task task dependent
+Slurry Valves - COF Commercial Type Task Finish Milestone,Finish Milestone,23052,slurry valve commercial type task finish milestone
+Slurry Valves - Receive Technical Bids Type Task Task Dependent,Task Dependent,23052,slurry valve receive technical bid type task task dependent
+Slurry Valves - All Technical Bids Received Type Task Finish Milestone,Finish Milestone,23052,slurry valve technical bid received type task finish milestone
+Slurry Valves - TBA Type Task Task Dependent,Task Dependent,23052,slurry valve type task task dependent
+Slurry Valves - Final TBA Type Task Finish Milestone,Finish Milestone,23052,slurry valve final type task finish milestone
+Slurry Valves - Receive Commercial Bids Type Task Task Dependent,Task Dependent,23052,slurry valve receive commercial bid type task task dependent
+Slurry Valves - All Commercial Bids Received Type Task Finish Milestone,Finish Milestone,23052,slurry valve commercial bid received type task finish milestone
+Slurry Valves - CAD Preparation Type Task Task Dependent,Task Dependent,23052,slurry valve preparation type task task dependent
+Slurry Valves - Award PO Type Task Task Dependent,Task Dependent,23052,slurry valve award type task task dependent
+Slurry Valves - Waiting supplier signature of contract Type Task Task Dependent,Task Dependent,23052,slurry valve waiting supplier signature contract type task task dependent
+"Slurry Valves - TBA delay due to (Budgetery Issues, Splitter Box, Requested Valves from DWS ...) Type Task Task Dependent",Task Dependent,15696,slurry valve delay budgetery issue splitter requested valve type task task dependent
+Slurry Valves - Total Potential Impact Type Task Level Of Effort,Level Of Effort,1,slurry valve total potential impact type task level effort
+Loop - Issue LOI Type Task Task Dependent,Task Dependent,22740,loop issue type task task dependent
+Loop - Procurement Prepare ITB Type Task Task Dependent,Task Dependent,30663,loop procurement prepare type task task dependent
+Loop - Final Dwgs from AUSENCO Type Task Task Dependent,Task Dependent,22740,loop final dwgs ausenco type task task dependent
+Loop - Receive Technical Bids Type Task Task Dependent,Task Dependent,22740,loop receive technical bid type task task dependent
+Loop - ITB Launched to Bidder Type Task Finish Milestone,Finish Milestone,30663,loop launched bidder type task finish milestone
+Loop - All Technical Bids Received Type Task Finish Milestone,Finish Milestone,22740,loop technical bid received type task finish milestone
+Loop - TBA Type Task Task Dependent,Task Dependent,22740,loop type task task dependent
+Loop - Final TBA Type Task Finish Milestone,Finish Milestone,22740,loop final type task finish milestone
+Loop - Receive Commercial Bids Type Task Task Dependent,Task Dependent,22740,loop receive commercial bid type task task dependent
+Loop - All Commercial Bids Received Type Task Finish Milestone,Finish Milestone,22740,loop commercial bid received type task finish milestone
+Loop - CAD Preparation Type Task Task Dependent,Task Dependent,22740,loop preparation type task task dependent
+Loop - CAD Complete Type Task Finish Milestone,Finish Milestone,22740,loop complete type task finish milestone
+Loop - Award PO Type Task Task Dependent,Task Dependent,22740,loop award type task task dependent
+Loop - PO Awarded and Signed by OCP   (22-Mar-2017 - IAP) Type Task Finish Milestone,Finish Milestone,22740,loop awarded signed 22mar2017 type task finish milestone
+Loop - LOI Issued   (14-Mar-2017 - IAP) Type Task Finish Milestone,Finish Milestone,22740,loop issued 14mar2017 type task finish milestone
+Loop - TBA took longer due to late AUSENCO IFD Dwgs Type Task Task Dependent,Task Dependent,22740,loop took longer late ausenco dwgs type task task dependent
+Loop - Commercial Bids impacted by IFD Dwgs Type Task Task Dependent,Task Dependent,22740,loop commercial bid impacted dwgs type task task dependent
+Loop - LOI pushed out due to AUSENCO Dwgs Type Task Task Dependent,Task Dependent,22740,loop pushed ausenco dwgs type task task dependent
+Loop - Total Potential Delay Type Task Level Of Effort,Level Of Effort,1,loop total potential delay type task level effort
+"Loop - Contract Signature (Tech. Acceptance Partial , Payment Desagreement) Type Task Task Dependent",Task Dependent,22740,loop contract signature tech acceptance partial payment desagreement type task task dependent
+Fire Protection - PO Awarded & Signed Type Task Finish Milestone,Finish Milestone,17680,fire protection awarded signed type task finish milestone
+Fire Protection - TBA Technical Bid Analysis complete Type Task Finish Milestone,Finish Milestone,17680,fire protection technical analysis complete type task finish milestone
+Fire Protection - CAD Type Task Task Dependent,Task Dependent,17680,fire protection type task task dependent
+VDS - PO COF Commercial Type Task Task Dependent,Task Dependent,16384,commercial type task task dependent
+VDS - PO CAD Type Task Task Dependent,Task Dependent,16384,type task task dependent
+VDS - Award PO Type Task Task Dependent,Task Dependent,16384,award type task task dependent
+VDS - PO Awarded & Signed Type Task Finish Milestone,Finish Milestone,16384,awarded signed type task finish milestone
+VDS - PO Technical Alignment Type Task Task Dependent,Task Dependent,16384,technical alignment type task task dependent
+Structural - PO Awarded & Signed Type Task Finish Milestone,Finish Milestone,18635,structural awarded signed type task finish milestone
+Structural - Procurement Cycle until PO Award Type Task Task Dependent,Task Dependent,18635,structural procurement cycle award type task task dependent
+CAD Complete Type Task Finish Milestone,Finish Milestone,18635,complete type task finish milestone
+Slurry Tks - PO Awarded and Signed by OCP _ Silica Line Type Task Finish Milestone,Finish Milestone,25496,slurry awarded signed silica line type task finish milestone
+Slurry Valves for Tanks - PO Awarded and Signed by OCP Type Task Finish Milestone,Finish Milestone,18824,slurry valve tank awarded signed type task finish milestone
+Agitators - KOM   (2 weeks after LOI) Type Task Finish Milestone,Finish Milestone,20507,agitator week type task finish milestone
+Agitators - TBA Type Task Task Dependent,Task Dependent,20507,agitator type task task dependent
+Agitators - Final TBA Type Task Finish Milestone,Finish Milestone,20507,agitator final type task finish milestone
+Agitators - Receive Commercial Bids Type Task Task Dependent,Task Dependent,20507,agitator receive commercial bid type task task dependent
+Agitators - All Commercial Bids Received Type Task Finish Milestone,Finish Milestone,20507,agitator commercial bid received type task finish milestone
+Agitators - CAD Complete Type Task Finish Milestone,Finish Milestone,20507,agitator complete type task finish milestone
+Agitators - Award PO Type Task Task Dependent,Task Dependent,20507,agitator award type task task dependent
+Agitators - PO Awarded and Signed by OCP Type Task Finish Milestone,Finish Milestone,20507,agitator awarded signed type task finish milestone
+Agitators - LOI Issued Type Task Finish Milestone,Finish Milestone,20507,agitator issued type task finish milestone
+Agitators - Issue LOI Type Task Task Dependent,Task Dependent,20507,agitator issue type task task dependent
+Agitators - Waiting for supplier signature of contract *** Type Task Task Dependent,Task Dependent,20507,agitator waiting supplier signature contract type task task dependent
+Agitators - Client Test for Concentration & PSD Type Task Task Dependent,Task Dependent,20507,agitator client test concentration type task task dependent
+Agitators - CAD Preparation (due to large budget) Type Task Task Dependent,Task Dependent,20507,agitator preparation large budget type task task dependent
+Slurry Tks - Award PO (Consortium to be fixed) Type Task Task Dependent,Task Dependent,30775,slurry award consortium fixed type task task dependent
+Slurry Tks - PO Awarded and Signed by OCP _ Head Station Type Task Finish Milestone,Finish Milestone,29186,slurry awarded signed head station type task finish milestone
+Slurry Tks - LOI Issued Type Task Finish Milestone,Finish Milestone,30775,slurry issued type task finish milestone
+Slurry Tks - Issue LOI Type Task Task Dependent,Task Dependent,30775,slurry issue type task task dependent
+Slurry Tks - PO Awarded and Signed by OCP _ TS Type Task Finish Milestone,Finish Milestone,29186,slurry awarded signed type task finish milestone
+Slurry Tks - PO Awarded and Signed by OCP _ DW Type Task Finish Milestone,Finish Milestone,17738,slurry awarded signed type task finish milestone
+Slurry Tks - PO Awarded and Signed by OCP _ Beni Amir Type Task Finish Milestone,Finish Milestone,30775,slurry awarded signed beni amir type task finish milestone
+Slurry Tks - Procurement Prepare ITB Type Task Task Dependent,Task Dependent,30663,slurry procurement prepare type task task dependent
+Slurry Tks - Receive Technical Bids Type Task Finish Milestone,Finish Milestone,30663,slurry receive technical bid type task finish milestone
+Slurry Tks - ITB Launched to Bidder Type Task Finish Milestone,Finish Milestone,30663,slurry launched bidder type task finish milestone
+Slurry Tks - All Technical Bids Received Type Task Finish Milestone,Finish Milestone,30671,slurry technical bid received type task finish milestone
+Slurry Tks - TBA Type Task Task Dependent,Task Dependent,30671,slurry type task task dependent
+Slurry Tks - Final TBA Type Task Finish Milestone,Finish Milestone,30671,slurry final type task finish milestone
+Slurry Tks - Receive Commercial Bids Type Task Finish Milestone,Finish Milestone,30775,slurry receive commercial bid type task finish milestone
+Slurry Tks - All Commercial Bids Received Type Task Finish Milestone,Finish Milestone,30775,slurry commercial bid received type task finish milestone
+Slurry Tks - CAD Preparation Type Task Task Dependent,Task Dependent,30775,slurry preparation type task task dependent
+Slurry Tks - CAD Complete Type Task Finish Milestone,Finish Milestone,30775,slurry complete type task finish milestone
+Slurry Tks - Waiting for contractors to fixe a consortium Type Task Task Dependent,Task Dependent,29186,slurry waiting contractor fixe consortium type task task dependent
+"Slurry Tks - TBA delay due to (Budgetery Issues, splitter box...) Type Task Task Dependent",Task Dependent,30663,slurry delay budgetery issue splitter type task task dependent
+Slurry Tks - Add New Scope Package for Silicate line ( Include basic Design) Type Task Task Dependent,Task Dependent,30663,slurry scope package silicate line include basic design type task task dependent
+Slurry Tks HS - Piping delivery Type Task Task Dependent,Task Dependent,19456,slurry piping delivery type task task dependent
+E&I - LOI Issued Type Task Finish Milestone,Finish Milestone,22668,issued type task finish milestone
+E&I - Issue LOI Type Task Task Dependent,Task Dependent,22668,issue type task task dependent
+E&I - All Commercial Bids Received Type Task Finish Milestone,Finish Milestone,22668,commercial bid received type task finish milestone
+E&I - CAD Preparation Type Task Task Dependent,Task Dependent,22668,preparation type task task dependent
+E&I - Receive Technical Bids Type Task Task Dependent,Task Dependent,22668,receive technical bid type task task dependent
+E&I - ITB Launched to Bidder Type Task Finish Milestone,Finish Milestone,22668,launched bidder type task finish milestone
+E&I - All Technical Bids Received Type Task Finish Milestone,Finish Milestone,22668,technical bid received type task finish milestone
+E&I - TBA Type Task Task Dependent,Task Dependent,22668,type task task dependent
+E&I - Final TBA Type Task Finish Milestone,Finish Milestone,22668,final type task finish milestone
+E&I - Receive Commercial Bids - Vendors request additional time Type Task Task Dependent,Task Dependent,22668,receive commercial bid vendor request additional time type task task dependent
+E&I - Procurment Prepare ITB Type Task Task Dependent,Task Dependent,22668,procurment prepare type task task dependent
+E&I - CAD Complete Type Task Finish Milestone,Finish Milestone,22668,complete type task finish milestone
+E&I - Award PO Type Task Task Dependent,Task Dependent,22668,award type task task dependent
+E&I - PO Awarded and Signed by OCP Type Task Finish Milestone,Finish Milestone,22668,awarded signed type task finish milestone
+"E&I - Time Delay due to Budgetery Issues (TBA, biders response too long . Splitter Box ..) Type Task Task Dependent",Task Dependent,22668,time delay budgetery issue biders response long splitter type task task dependent
+Issue VDS drawings IFC Type Task Task Dependent,Task Dependent,16384,issue drawing type task task dependent
+FP-HS- Issue Fire detection Dwgs IFC Type Task Task Dependent,Task Dependent,17680,fphs issue fire detection dwgs type task task dependent
+FP-HS- Issue Fire Extinguishing Dwgs IFC Type Task Task Dependent,Task Dependent,17680,fphs issue fire extinguishing dwgs type task task dependent
+Calculation notes and detailed drawings IFC Type Task Task Dependent,Task Dependent,18635,calculation note detailed drawing type task task dependent
+Slurry Tks TS - Detailed Design - Agitator Structure FDN IFC's Type Task Task Dependent,Task Dependent,19778,slurry detailed design agitator structure ifc type task task dependent
+Slurry Tks TS - Detailed Design - Confirmation from Agitator Vendor on Loads Type Task Task Dependent,Task Dependent,20282,slurry detailed design confirmation agitator vendor load type task task dependent
+Slurry Tks TS - Issue Agitator FDN IFC   (After Bureau Control Approval) Type Task Task Dependent,Task Dependent,19778,slurry issue agitator bureau control approval type task task dependent
+Slurry Tks TS -  Issue Agitator Steel Support IFC   (After Bureau Ctrl) Type Task Task Dependent,Task Dependent,20282,slurry issue agitator steel support bureau ctrl type task task dependent
+Slurry Tks TS - Agitators FDNs Dwgs IFC Type Task Finish Milestone,Finish Milestone,19778,slurry agitator fdns dwgs type task finish milestone
+Slurry Tks TS -  Agitators Structure Dwgs IFC Type Task Finish Milestone,Finish Milestone,20282,slurry agitator structure dwgs type task finish milestone
+Slurry Tks TS -  Detailed Design - Agitator Steel Structure Support Type Task Task Dependent,Task Dependent,20282,slurry detailed design agitator steel structure support type task task dependent
+Slurry Tks TS - Pipe Design Review/Approved + ISOs + Stress Dwgs Type Task Task Dependent,Task Dependent,25098,slurry pipe design reviewapproved isos stress dwgs type task task dependent
+Slurry Tks TS - Issue ISO's IFC Type Task Task Dependent,Task Dependent,23778,slurry issue isos type task task dependent
+Slurry Tks TS - JESA/OCP Rev/Approves Tks Dwgs Type Task Task Dependent,Task Dependent,29186,slurry jesaocp revapproves dwgs type task task dependent
+Slurry Tks TS - Tks Fabrication Dwgs Approved Type Task Finish Milestone,Finish Milestone,21170,slurry fabrication dwgs approved type task finish milestone
+Slurry Tks TS - Steel Tks Dwgs IFCs Type Task Finish Milestone,Finish Milestone,29186,slurry steel dwgs ifc type task finish milestone
+Slurry Tks TS - Prepare Tks Dwgs & Calcs Type Task Task Dependent,Task Dependent,29186,slurry prepare dwgs calcs type task task dependent
+Slurry Tks BA - JESA/OCP Rev/Approves Tks Dwgs Type Task Task Dependent,Task Dependent,24289,slurry jesaocp revapproves dwgs type task task dependent
+Slurry Tks BA - Tks Fabrication Dwgs Approved Type Task Finish Milestone,Finish Milestone,24289,slurry fabrication dwgs approved type task finish milestone
+Slurry Tks BA - Steel Tks Dwgs IFCs Type Task Finish Milestone,Finish Milestone,32191,slurry steel dwgs ifc type task finish milestone
+Slurry Tks BA - Issue Tks FDNs IFC Type Task Finish Milestone,Finish Milestone,33005,slurry issue fdns type task finish milestone
+Slurry Tks BA - Tks FDNs Dwgs Type Task Task Dependent,Task Dependent,31477,slurry fdns dwgs type task task dependent
+Slurry Tks BA - Prepare Tks Dwgs & Calcs Type Task Task Dependent,Task Dependent,32087,slurry prepare dwgs calcs type task task dependent
+Slurry Tks BA - Detailed Design - Confirmation from Agitator Vendor on Loads Type Task Task Dependent,Task Dependent,21931,slurry detailed design confirmation agitator vendor load type task task dependent
+Slurry Tks BA -  Issue Agitator FDN IFC   (after Bureau Control Approval) Type Task Task Dependent,Task Dependent,21427,slurry issue agitator bureau control approval type task task dependent
+Slurry Tks BA -  Issue Agitator Steel Support IFC   (after Bureau Ctrl) Type Task Task Dependent,Task Dependent,21763,slurry issue agitator steel support bureau ctrl type task task dependent
+Slurry Tks BA -  Agitators FDNs Dwgs IFC Type Task Finish Milestone,Finish Milestone,21531,slurry agitator fdns dwgs type task finish milestone
+Slurry Tks BA -  Agitators Structure Dwgs IFC Type Task Finish Milestone,Finish Milestone,22131,slurry agitator structure dwgs type task finish milestone
+Slurry Tks BA -  Detailed Design - Agitator Steel Structure Support Type Task Task Dependent,Task Dependent,21427,slurry detailed design agitator steel structure support type task task dependent
+"Slurry Tks BA -  Detailed Design - Agitator Structure FDN IFC's  (TS, HS & BA) Type Task Task Dependent",Task Dependent,21259,slurry detailed design agitator structure ifc type task task dependent
+Slurry Tks BA - Issue ISO's IFC Type Task Task Dependent,Task Dependent,25173,slurry issue isos type task task dependent
+Slurry Tks BA - Pipe Design Review/Approved + ISOs + Stress Dwgs Type Task Task Dependent,Task Dependent,23971,slurry pipe design reviewapproved isos stress dwgs type task task dependent
+Slurry Tks HS - Issue ISO's IFC Type Task Task Dependent,Task Dependent,18768,slurry issue isos type task task dependent
+Slurry Tks HS - Pipe Design Review/Approved + ISOs + Stress Dwgs Type Task Task Dependent,Task Dependent,18812,slurry pipe design reviewapproved isos stress dwgs type task task dependent
+Slurry Tks HS -  Detailed Design - Agitator Steel Structure Support Type Task Task Dependent,Task Dependent,18916,slurry detailed design agitator steel structure support type task task dependent
+"Slurry Tks HS - Detailed Design - Agitator Structure FDN IFC's  (TS, HS & HS) Type Task Task Dependent",Task Dependent,18916,slurry detailed design agitator structure ifc type task task dependent
+Slurry Tks HS - Detailed Design - Confirmation from Agitator Vendor on Loads Type Task Task Dependent,Task Dependent,18916,slurry detailed design confirmation agitator vendor load type task task dependent
+Slurry Tks HS - Issue Agitator FDN IFC (after Bureau Control Approval) Type Task Task Dependent,Task Dependent,18916,slurry issue agitator bureau control approval type task task dependent
+Slurry Tks HS -  Issue Agitator Steel Support IFC (after Bureau Ctrl) Type Task Task Dependent,Task Dependent,18916,slurry issue agitator steel support bureau ctrl type task task dependent
+Slurry Tks HS -  Agitators FDNs Dwgs IFC Type Task Finish Milestone,Finish Milestone,18916,slurry agitator fdns dwgs type task finish milestone
+Slurry Tks HS -  Agitators Structure Dwgs IFC Type Task Finish Milestone,Finish Milestone,18916,slurry agitator structure dwgs type task finish milestone
+Slurry Tks HS - JESA/OCP Rev/Approves Tks Dwgs Type Task Task Dependent,Task Dependent,29179,slurry jesaocp revapproves dwgs type task task dependent
+Slurry Tks HS - Tks Fabrication Dwgs Approved Type Task Finish Milestone,Finish Milestone,29202,slurry fabrication dwgs approved type task finish milestone
+Slurry Tks HS - Steel Tks Dwgs IFCs Type Task Finish Milestone,Finish Milestone,29202,slurry steel dwgs ifc type task finish milestone
+Slurry Tks HS - Prepare Tks Dwgs & Calsc Type Task Task Dependent,Task Dependent,29202,slurry prepare dwgs calsc type task task dependent
+Slurry Tks DW - Splitter Box Prepare Tks Dwgs & Calsc (Duration not fixed) Type Task Task Dependent,Task Dependent,17738,slurry splitter prepare dwgs calsc duration fixed type task task dependent
+Slurry Tks DW - Splitter Box Dwgs IFCs Type Task Finish Milestone,Finish Milestone,17738,slurry splitter dwgs ifc type task finish milestone
+TSF - Design Development Type Task Task Dependent,Task Dependent,22740,design development type task task dependent
+TSF - Release Structural IFCs   (after Bureau Control Approval) Type Task Task Dependent,Task Dependent,22740,release structural ifc bureau control approval type task task dependent
+TSF - Issue Mechanical Arrangement Dwgs IFC Type Task Task Dependent,Task Dependent,22740,issue mechanical arrangement dwgs type task task dependent
+TSF - Release Pump FDN's IFC   (after Bureau Control Approval) Type Task Task Dependent,Task Dependent,22740,release pump fdns bureau control approval type task task dependent
+TSF N- update of technical specification of the manual valves (Valvetech) Type Task Task Dependent,Task Dependent,22740,update technical specification manual valve valvetech type task task dependent
+TSF N- Prepare technical specification for pipe Lining Type Task Task Dependent,Task Dependent,22692,prepare technical specification pipe lining type task task dependent
+TSF - Issue ISO's IFC  (Need P&ID's Update) Type Task Finish Milestone,Finish Milestone,22740,issue isos need pid update type task finish milestone
+TSF - Piping Design & Engineering Type Task Task Dependent,Task Dependent,22740,piping design engineering type task task dependent
+TSF - Complete Pump Related ISO's & Stress Analysis Type Task Task Dependent,Task Dependent,22740,complete pump related isos stress analysis type task task dependent
+TSF N- Review/Approval of technical specification for pipe lining Type Task Task Dependent,Task Dependent,22692,reviewapproval technical specification pipe lining type task task dependent
+TSF N- Approval  of technical specification of the manual valves (valvtech) Type Task Task Dependent,Task Dependent,22740,approval technical specification manual valve valvtech type task task dependent
+SCL - Release FDN & Steel IFC Drawings Type Task Task Dependent,Task Dependent,25984,release steel drawing type task task dependent
+SCL - Piping Design & Engineering Type Task Task Dependent,Task Dependent,22408,piping design engineering type task task dependent
+SCL - Issue ISO's IFC Type Task Finish Milestone,Finish Milestone,23424,issue isos type task finish milestone
+Loop - FDN & Steel IFC Bureau Control Approval Type Task Task Dependent,Task Dependent,20507,loop steel bureau control approval type task task dependent
+Loop - Detailed Design DWS Loop Type Task Task Dependent,Task Dependent,20507,loop detailed design loop type task task dependent
+Loop - IFC Dwgs Ready for Bureau Control Approval Type Task Finish Milestone,Finish Milestone,20507,loop dwgs ready bureau control approval type task finish milestone
+MC- Slurry Transfer Type Task Finish Milestone,Finish Milestone,16625,slurry transfer type task finish milestone
+SOP- Slurry Transfer (Contractual 23.May-2018) Type Task Finish Milestone,Finish Milestone,17345,slurry transfer contractual 23may2018 type task finish milestone
+MC - Structural Upgrades Type Task Finish Milestone,Finish Milestone,16512,structural upgrade type task finish milestone
+MC - Fire Protection (Contractual 10.May-2018) Type Task Finish Milestone,Finish Milestone,17040,fire protection contractual 10may2018 type task finish milestone
+MC - VDS works (Contractual 30.Aug 2018) Type Task Finish Milestone,Finish Milestone,16168,work contractual 30aug 2018 type task finish milestone
+SOP - VDS Works Type Task Finish Milestone,Finish Milestone,16488,work type task finish milestone
+SOP - Fire Protection Type Task Finish Milestone,Finish Milestone,17712,fire protection type task finish milestone
+SOP - Structural Upgrades  (Contractual 27.May-2018) Type Task Finish Milestone,Finish Milestone,16536,structural upgrade contractual 27may2018 type task finish milestone
+"MC- Common Works (VDS, Fire Protection, Access Upgrade) Type Task Finish Milestone",Finish Milestone,17040,common work fire protection access upgrade type task finish milestone
+"SOP- Common Works (VDS, Fire Protection, Access Upgrade) Type Task Finish Milestone",Finish Milestone,17712,common work fire protection access upgrade type task finish milestone
+MC - Flush Water Loop Type Task Finish Milestone,Finish Milestone,20507,flush water loop type task finish milestone
+SOP- Flush Water Loop Type Task Finish Milestone,Finish Milestone,20507,flush water loop type task finish milestone
+MC - Tanks at HS Type Task Finish Milestone,Finish Milestone,18884,tank type task finish milestone
+MC - Tanks at TS Type Task Finish Milestone,Finish Milestone,27240,tank type task finish milestone
+MC - Tanks at Beni Amir Type Task Finish Milestone,Finish Milestone,29231,tank beni amir type task finish milestone
+MC - Splitter Box at Daoui Type Task Finish Milestone,Finish Milestone,17738,splitter daoui type task finish milestone
+SOP -Tanks  at TS Type Task Finish Milestone,Finish Milestone,28242,tank type task finish milestone
+SOP - Splitter Box at Daoui Type Task Finish Milestone,Finish Milestone,15816,splitter daoui type task finish milestone
+SOP - Tanks at Beni Amir Type Task Finish Milestone,Finish Milestone,28991,tank beni amir type task finish milestone
+SOP - Tanks  at HS Type Task Finish Milestone,Finish Milestone,19680,tank type task finish milestone
+MC- Silica Line Type Task Finish Milestone,Finish Milestone,25200,silica line type task finish milestone
+SOP- Silica Line Type Task Finish Milestone,Finish Milestone,27144,silica line type task finish milestone
+"MC- All Tanks (TS, HS, BA & DO) Type Task Finish Milestone",Finish Milestone,27716,tank type task finish milestone
+"SOP- All Tanks (TS, HS, BA & DO) Type Task Finish Milestone",Finish Milestone,29951,tank type task finish milestone
+"Silica Line - Piping Material, Fabrication & Delivery Type Task Task Dependent",Task Dependent,19168,silica line piping material fabrication delivery type task task dependent
+Silica Line - Pipe Rack Material & Fabrication Type Task Task Dependent,Task Dependent,26536,silica line pipe rack material fabrication type task task dependent
+Silica Line - Purchase piping materials Type Task Task Dependent,Task Dependent,22600,silica line purchase piping material type task task dependent
+TSF - Pipe Lining Materials - last Batch Type Task Task Dependent,Task Dependent,22748,pipe lining material last batch type task task dependent
+TSF - Pipe Lining Materials - 1st Batch Type Task Task Dependent,Task Dependent,22740,pipe lining material batch type task task dependent
+TSF - Pipe Supports Material & Fabrication Type Task Task Dependent,Task Dependent,22740,pipe support material fabrication type task task dependent
+TSF - Pipe Lining Materials Type Task Task Dependent,Task Dependent,22692,pipe lining material type task task dependent
+TSF - Manual Valves & Instruments (Valvtech) + GASKETS Type Task Task Dependent,Task Dependent,22740,manual valve instrument valvtech gasket type task task dependent
+TSF - Purchase piping materials (TCMaroc) Type Task Task Dependent,Task Dependent,22740,purchase piping material tcmaroc type task task dependent
+TSF DELAY - Request OCP's Financial Support for Procurement Type Task Task Dependent,Task Dependent,22740,delay request ocps financial support procurement type task task dependent
+Slurry Valves N - Delivery Slurry Valves by FLOWROX Type Task Finish Milestone,Finish Milestone,23052,slurry valve delivery slurry valve flowrox type task finish milestone
+Slurry Valves N - Fabrication & Dellivery  FLOWROX Type Task Task Dependent,Task Dependent,23052,slurry valve fabrication dellivery flowrox type task task dependent
+Slurry Pumps - VD / Ex-Works / Deliver at port Type Task Task Dependent,Task Dependent,22692,slurry pump exworks deliver port type task task dependent
+Slurry Pumps - Pumps on Site Type Task Finish Milestone,Finish Milestone,22692,slurry pump pump site type task finish milestone
+Slurry Pumps - Vendor to Provide Dwgs & Calculations to JESA Type Task Task Dependent,Task Dependent,22740,slurry pump vendor provide dwgs calculation jesa type task task dependent
+Slurry Pumps - Port Clearance Type Task Task Dependent,Task Dependent,22692,slurry pump port clearance type task task dependent
+E&I TSF - Placing Order for Instruments Type Task Task Dependent,Task Dependent,22363,placing order instrument type task task dependent
+E&I TSF - Instruments Fabrication Ex-Works Type Task Task Dependent,Task Dependent,22435,instrument fabrication exworks type task task dependent
+E&I TSF N- Approval of Datasheet Cables Type Task Start Milestone,Start Milestone,22411,approval datasheet cable type task start milestone
+E&I TSF - Placing Order for Cables Type Task Task Dependent,Task Dependent,22363,placing order cable type task task dependent
+E&I TSF -  Cables Delivery Type Task Task Dependent,Task Dependent,22459,cable delivery type task task dependent
+E&I TSF N- Approval of Datasheet  MCC Type Task Start Milestone,Start Milestone,22387,approval datasheet type task start milestone
+E&I TSF N- Placing order for MCC Type Task Task Dependent,Task Dependent,22387,placing order type task task dependent
+E&I TSF N- MCC Fabrication Ex-Works Type Task Task Dependent,Task Dependent,22219,fabrication exworks type task task dependent
+E&I TSF N- MCC on site Type Task Finish Milestone,Finish Milestone,22219,site type task finish milestone
+E&I TSF - VFDs Fabrication Ex-Works Type Task Task Dependent,Task Dependent,22668,vfds fabrication exworks type task task dependent
+E&I TSF - VFDs on site Type Task Finish Milestone,Finish Milestone,15856,vfds site type task finish milestone
+E&I TSF - Approval of Datasheet VFDs Type Task Start Milestone,Start Milestone,22668,approval datasheet vfds type task start milestone
+E&I TSF - Placing Order for VFDs Type Task Task Dependent,Task Dependent,22668,placing order vfds type task task dependent
+E&I TSF - Approval of Datasheet Instruments Type Task Start Milestone,Start Milestone,22387,approval datasheet instrument type task start milestone
+"Loop - Fabricate 36"" Loop Pipe Type Task Task Dependent",Task Dependent,20507,loop fabricate loop pipe type task task dependent
+"Loop - Provide 36"" Loop Pipe by Client Type Task Task Dependent",Task Dependent,20507,loop provide loop pipe client type task task dependent
+Loop - Material & Fabrication Structural Steel Support for Loop Type Task Task Dependent,Task Dependent,20507,loop material fabrication structural steel support loop type task task dependent
+Loop - Pipe on Site Type Task Finish Milestone,Finish Milestone,20507,loop pipe site type task finish milestone
+Loop - Structure on Site Type Task Finish Milestone,Finish Milestone,20507,loop structure site type task finish milestone
+Loop - Instruments on Site Type Task Finish Milestone,Finish Milestone,20507,loop instrument site type task finish milestone
+Access Upgrade - Fabrication & Deliver on Site Type Task Task Dependent,Task Dependent,16480,access upgrade fabrication deliver site type task task dependent
+VDS - VD / Ex-Works / Deliver on Site Type Task Task Dependent,Task Dependent,16316,exworks deliver site type task task dependent
+FP - VD / Ex-Works / Deliver on Site Type Task Task Dependent,Task Dependent,16360,exworks deliver site type task task dependent
+Agitators - Vendor to Provide Final Loads & Dwgs Type Task Task Dependent,Task Dependent,20507,agitator vendor provide final load dwgs type task task dependent
+Agitators - Vendor Dwgs Approved Type Task Finish Milestone,Finish Milestone,20507,agitator vendor dwgs approved type task finish milestone
+Agitators - VD / Ex-Works / Deliver on Site   [ Total of Six (6) ] Type Task Task Dependent,Task Dependent,18634,agitator exworks deliver site total type task task dependent
+Agitators - Agitators on Site Type Task Finish Milestone,Finish Milestone,18634,agitator agitator site type task finish milestone
+Slurry Valves - VD / Ex-Works / Deliver on Site Type Task Task Dependent,Task Dependent,18832,slurry valve exworks deliver site type task task dependent
+Slurry Valves - SV on Site Type Task Finish Milestone,Finish Milestone,18832,slurry valve site type task finish milestone
+Slurry Tks HS - Piping Material & Spool Fabrication Type Task Task Dependent,Task Dependent,18188,slurry piping material spool fabrication type task task dependent
+Slurry Tks HS - Steel Plates Received at Vendor's Shop Type Task Finish Milestone,Finish Milestone,29202,slurry steel plate received vendor shop type task finish milestone
+Slurry Tks HS - Roll Tkat Vendor's Shop Type Task Task Dependent,Task Dependent,29690,slurry roll tkat vendor shop type task task dependent
+Slurry Tks HS - All Rolled Plates on Site Type Task Finish Milestone,Finish Milestone,19132,slurry rolled plate site type task finish milestone
+Slurry Tks HS - Purchase Tks Raw Material Type Task Task Dependent,Task Dependent,29202,slurry purchase material type task task dependent
+Slurry Tks BA - Steel Plates Received at Vendor's Shop Type Task Finish Milestone,Finish Milestone,24289,slurry steel plate received vendor shop type task finish milestone
+Slurry Tks BA - Roll Tk Plates at Vendor's Shop Type Task Task Dependent,Task Dependent,22961,slurry roll plate vendor shop type task task dependent
+Slurry Tks BA - All Rolled Plates on Site Type Task Finish Milestone,Finish Milestone,24361,slurry rolled plate site type task finish milestone
+Slurry Tks BA - Piping Material & Spool Fabrication Type Task Task Dependent,Task Dependent,23181,slurry piping material spool fabrication type task task dependent
+Slurry Tks BA - Purchase Tks Raw Material Type Task Task Dependent,Task Dependent,32191,slurry purchase material type task task dependent
+Slurry Tks DO - Piping Material & Spool Fabrication Type Task Task Dependent,Task Dependent,15816,slurry piping material spool fabrication type task task dependent
+Slurry Tks DO - Purchase Raw Materials Type Task Task Dependent,Task Dependent,17738,slurry purchase material type task task dependent
+Slurry Tks DO -  Splitter Box Fabrication Type Task Task Dependent,Task Dependent,17738,slurry splitter fabrication type task task dependent
+Slurry Tks TS - All Rolled Plates on Site Type Task Finish Milestone,Finish Milestone,22634,slurry rolled plate site type task finish milestone
+Slurry Tks TS - Purchase Tks Raw Material Type Task Task Dependent,Task Dependent,29186,slurry purchase material type task task dependent
+Slurry Tks TS - Steel Plates Received at Vendor's Shop Type Task Finish Milestone,Finish Milestone,29186,slurry steel plate received vendor shop type task finish milestone
+Slurry Tks TS - Roll Tk Plates at Vendor's Shop Type Task Task Dependent,Task Dependent,21258,slurry roll plate vendor shop type task task dependent
+Slurry Tks TS - Piping Material & Spool Fabrication Type Task Task Dependent,Task Dependent,23442,slurry piping material spool fabrication type task task dependent
+Slurry Tks TS - Tks Hydrostesting Type Task Task Dependent,Task Dependent,28962,slurry hydrostesting type task task dependent
+Slurry Tks TS - Lining/Prime/Paint Type Task Task Dependent,Task Dependent,26994,slurry liningprimepaint type task task dependent
+Slurry Tks TS - Walkdown / Punch List / Correct PL Items Type Task Task Dependent,Task Dependent,28746,slurry walkdown punch list correct item type task task dependent
+Slurry Tks TS - Mechanical Completion ONLY Tks Type Task Finish Milestone,Finish Milestone,29114,slurry mechanical completion type task finish milestone
+Slurry Tks TS - Field Erect & Weld Tks Type Task Task Dependent,Task Dependent,23970,slurry field erect weld type task task dependent
+Slurry Tks TS - Erect Tk Stairs/Grating/Handrails Type Task Task Dependent,Task Dependent,22338,slurry erect stairsgratinghandrails type task task dependent
+Slurry Tks TS - Sand Blasting Type Task Task Dependent,Task Dependent,27354,slurry sand blasting type task task dependent
+Slurry Tks TS - Pre-assemble Agitator Structure Type Task Task Dependent,Task Dependent,27162,slurry preassemble agitator structure type task task dependent
+Slurry Tks TS - Install Agitators & Structure Type Task Task Dependent,Task Dependent,27282,slurry install agitator structure type task task dependent
+Slurry Tks TS - Agitator Structural FDNs Type Task Task Dependent,Task Dependent,21978,slurry agitator structural fdns type task task dependent
+Slurry Tks TS - Agitator Steel Support Material & Fab Type Task Task Dependent,Task Dependent,21234,slurry agitator steel support material type task task dependent
+E&I TS - Terminate Agitators Type Task Task Dependent,Task Dependent,26776,terminate agitator type task task dependent
+E&I TS - Mobilize at site Type Task Task Dependent,Task Dependent,19888,mobilize site type task task dependent
+E&I TS - Pull Cable for Plant Lighting Type Task Task Dependent,Task Dependent,19552,pull cable plant lighting type task task dependent
+E&I TS - Install Plant Lighting Type Task Task Dependent,Task Dependent,20152,install plant lighting type task task dependent
+Slurry Tanks - Mechanical Completion at Terminal Station Type Task Finish Milestone,Finish Milestone,27240,slurry tank mechanical completion terminal station type task finish milestone
+Slurry Tks TS - Install Pipe at Tks Discharge Tie-in Point Type Task Task Dependent,Task Dependent,26922,slurry install pipe discharge tiein point type task task dependent
+Slurry Tks TS - Install Pipe Spools Feeding Tks at Top Type Task Task Dependent,Task Dependent,26250,slurry install pipe spool feeding type task task dependent
+Slurry Tks TS - All Tie-in Points Complete Type Task Finish Milestone,Finish Milestone,28730,slurry tiein point complete type task finish milestone
+Slurry Tks TS - Pipe Installation   (Except Tie-ins to Tks) Type Task Task Dependent,Task Dependent,22914,slurry pipe installation except tieins type task task dependent
+Slurry Tks HS - Install Agitators & Structure Type Task Task Dependent,Task Dependent,20132,slurry install agitator structure type task task dependent
+Slurry Tks HS - Agitator Structural FDNs Type Task Task Dependent,Task Dependent,18500,slurry agitator structural fdns type task task dependent
+Slurry Tks HS - Pre-assemble Agitator Structure Type Task Task Dependent,Task Dependent,19388,slurry preassemble agitator structure type task task dependent
+Slurry Tks HS - Agitator Steel Support Material & Fab Type Task Task Dependent,Task Dependent,17996,slurry agitator steel support material type task task dependent
+E&I HS - Pull Cable for Plant Lighting Type Task Task Dependent,Task Dependent,18712,pull cable plant lighting type task task dependent
+E&I HS - Terminate Agitators Type Task Task Dependent,Task Dependent,20496,terminate agitator type task task dependent
+E&I HS - Install Plant Lighting Type Task Task Dependent,Task Dependent,19316,install plant lighting type task task dependent
+Slurry Tanks - Mechanical Completion at Head Station Type Task Finish Milestone,Finish Milestone,20640,slurry tank mechanical completion head station type task finish milestone
+E&I HS - Mobilize at site Type Task Task Dependent,Task Dependent,18860,mobilize site type task task dependent
+E&I HS - Work at Electrical Bldg Type Task Task Dependent,Task Dependent,18500,work electrical bldg type task task dependent
+"Slurry Tks HS - Field Erect, Weld Tks Type Task Task Dependent",Task Dependent,18820,slurry field erect weld type task task dependent
+Slurry Tks HS - Walkdown / Punch List / Correct PL Items Type Task Task Dependent,Task Dependent,20040,slurry walkdown punch list correct item type task task dependent
+Slurry Tks HS - Mechanical Completion ONLY Tks Type Task Finish Milestone,Finish Milestone,20592,slurry mechanical completion type task finish milestone
+Slurry Tks HS - Sand Blasting Type Task Task Dependent,Task Dependent,20252,slurry sand blasting type task task dependent
+Slurry Tks HS - Rubberling and Tks Hydrotesting Type Task Task Dependent,Task Dependent,18836,slurry rubberling hydrotesting type task task dependent
+Slurry Tks HS - Lining/Prime/Paint Type Task Task Dependent,Task Dependent,19484,slurry liningprimepaint type task task dependent
+Slurry Tks HS - Erect Tk Stairs/Grating/Handrails Type Task Task Dependent,Task Dependent,18500,slurry erect stairsgratinghandrails type task task dependent
+Slurry Tks HS - Pipe Installation (Except Tie-ins to Tks) Type Task Task Dependent,Task Dependent,19820,slurry pipe installation except tieins type task task dependent
+Slurry Tks HS - Install Pipe at Tks Discharge Tie-in Point Type Task Task Dependent,Task Dependent,20228,slurry install pipe discharge tiein point type task task dependent
+Slurry Tks HS - Install Pipe Spools Feeding Tks at Top Type Task Task Dependent,Task Dependent,19388,slurry install pipe spool feeding type task task dependent
+Slurry Tks HS - All Tie-in Points Complete Type Task Finish Milestone,Finish Milestone,20380,slurry tiein point complete type task finish milestone
+TS - Transfer Structural Parts [LOE] Type Task Level Of Effort,Level Of Effort,1,transfer structural part type task level effort
+Slurry Tks DO - Pipe Installation Type Task Task Dependent,Task Dependent,15816,slurry pipe installation type task task dependent
+Slurry Tks DO - Pipe Hydro Type Task Task Dependent,Task Dependent,15816,slurry pipe hydro type task task dependent
+Slurry Tks DO- Install Pipe Spools Feeding Tks at Top Type Task Task Dependent,Task Dependent,17738,slurry install pipe spool feeding type task task dependent
+Slurry Tks DO -  Splitter Box Erection & painting Type Task Task Dependent,Task Dependent,17738,slurry splitter erection painting type task task dependent
+Slurry Tks DO -  Splitter Box Mechanical Completion Type Task Task Dependent,Task Dependent,17738,slurry splitter mechanical completion type task task dependent
+Slurry Tks DO -  Splitter Box Structure & supports Type Task Task Dependent,Task Dependent,17738,slurry splitter structure support type task task dependent
+Slurry Tks BA - Civil FDNs for Tks Type Task Task Dependent,Task Dependent,28337,slurry civil fdns type task task dependent
+Slurry Tks BA - Install Pipe at Tks Discharge Tie-in Point Type Task Task Dependent,Task Dependent,28799,slurry install pipe discharge tiein point type task task dependent
+Slurry Tks BA - Install Pipe Spools Feeding Tks at Top Type Task Task Dependent,Task Dependent,24693,slurry install pipe spool feeding type task task dependent
+Slurry Tks BA - All Tie-in Points Complete Type Task Finish Milestone,Finish Milestone,29231,slurry tiein point complete type task finish milestone
+Slurry Tks BA - Pipe Installation   (Except Tie-ins to Tks) Type Task Task Dependent,Task Dependent,23973,slurry pipe installation except tieins type task task dependent
+Slurry Tks BA - Walkdown / Punch List / Correct PL Items Type Task Task Dependent,Task Dependent,29135,slurry walkdown punch list correct item type task task dependent
+Slurry Tks BA - Field Erect & Weld Tks Type Task Task Dependent,Task Dependent,25583,slurry field erect weld type task task dependent
+Slurry Tks BA - Erect Tk Stairs/Grating/Handrails Type Task Task Dependent,Task Dependent,26617,slurry erect stairsgratinghandrails type task task dependent
+Slurry Tks BA - Sand Blasting Type Task Task Dependent,Task Dependent,29233,slurry sand blasting type task task dependent
+Slurry Tks BA - Tks Hydrotesting Type Task Task Dependent,Task Dependent,29303,slurry hydrotesting type task task dependent
+Slurry Tks BA - Lining/Prime/Paint Type Task Task Dependent,Task Dependent,28799,slurry liningprimepaint type task task dependent
+Slurry Tks BA - Mechanical Completion (ONLY Tks) Type Task Finish Milestone,Finish Milestone,29831,slurry mechanical completion type task finish milestone
+E&I BA - Work at Electrical Bldg Type Task Task Dependent,Task Dependent,27553,work electrical bldg type task task dependent
+E&I BA - Terminate Pump Type Task Task Dependent,Task Dependent,29663,terminate pump type task task dependent
+E&I BA - Terminate Agitators Type Task Task Dependent,Task Dependent,29735,terminate agitator type task task dependent
+E&I BA - Mobilize at site Type Task Task Dependent,Task Dependent,27865,mobilize site type task task dependent
+E&I BA - Pull Cable for Plant Lighting Type Task Task Dependent,Task Dependent,27721,pull cable plant lighting type task task dependent
+E&I BA - Install Plant Lighting Type Task Task Dependent,Task Dependent,27649,install plant lighting type task task dependent
+Slurry Tanks - Mechanical Completion at Beni Amir Type Task Finish Milestone,Finish Milestone,29903,slurry tank mechanical completion beni amir type task finish milestone
+Slurry Tks BA - Install Agitators & Structure Type Task Task Dependent,Task Dependent,29399,slurry install agitator structure type task task dependent
+Slurry Tks BA - Agitator Structural FDNs Type Task Task Dependent,Task Dependent,20899,slurry agitator structural fdns type task task dependent
+Slurry Tks BA - Pre-assemble Agitator Structure Type Task Task Dependent,Task Dependent,29135,slurry preassemble agitator structure type task task dependent
+Slurry Tks BA - Agitator Steel Support Material & Fab Type Task Task Dependent,Task Dependent,21451,slurry agitator steel support material type task task dependent
+VDS TS  - Install Video Surveillance System Type Task Task Dependent,Task Dependent,16504,install video surveillance system type task task dependent
+VDS DO - Install Video Surveillance System Type Task Task Dependent,Task Dependent,16504,install video surveillance system type task task dependent
+VDS BA - Install Video Surveillance System Type Task Task Dependent,Task Dependent,16316,install video surveillance system type task task dependent
+MC - VDS works Type Task Finish Milestone,Finish Milestone,16504,work type task finish milestone
+VDS HS - Install Video Surveillance System Type Task Task Dependent,Task Dependent,16195,install video surveillance system type task task dependent
+MC - Structural Upgrades Type Task Finish Milestone,Finish Milestone,16584,structural upgrade type task finish milestone
+HS Access - Structural Upgrades Type Task Task Dependent,Task Dependent,18635,access structural upgrade type task task dependent
+Access BA - Structural Upgrades Type Task Task Dependent,Task Dependent,18635,access structural upgrade type task task dependent
+Access TS - Structural Upgrades Type Task Task Dependent,Task Dependent,18635,access structural upgrade type task task dependent
+Access DO - Structural Upgrades Type Task Task Dependent,Task Dependent,15776,access structural upgrade type task task dependent
+Access PMS & VS -  Structural Upgrades Type Task Task Dependent,Task Dependent,15784,access structural upgrade type task task dependent
+MC - Fire Protection Type Task Finish Milestone,Finish Milestone,17712,fire protection type task finish milestone
+Installation of Equipments Type Task Task Dependent,Task Dependent,16384,installation equipment type task task dependent
+Installation of Fire Detection System Type Task Task Dependent,Task Dependent,16384,installation fire detection system type task task dependent
+Installation of smoke extraction / Calfeutrement Type Task Task Dependent,Task Dependent,16384,installation smoke extraction calfeutrement type task task dependent
+Installation of Novec Gas Type Task Task Dependent,Task Dependent,16368,installation novec type task task dependent
+FP - Delay of Site mobilization Type Task Task Dependent,Task Dependent,17680,delay site mobilization type task task dependent
+"Loop - Excavate and FRP (Form, Rebar & Pour) FDNs Type Task Task Dependent",Task Dependent,20507,loop excavate form rebar pour fdns type task task dependent
+Loop - Erect Steel Structure Type Task Task Dependent,Task Dependent,20507,loop erect steel structure type task task dependent
+Loop - Pipe Preassembly Type Task Task Dependent,Task Dependent,20507,loop pipe preassembly type task task dependent
+Loop - Make Tie-in  (Client Dependent) Type Task Task Dependent,Task Dependent,20507,loop make tiein client dependent type task task dependent
+Loop - Pipe  Erection & Hydro Type Task Task Dependent,Task Dependent,20507,loop pipe erection hydro type task task dependent
+Loop - Ready for Tie-In Type Task Finish Milestone,Finish Milestone,20507,loop ready tiein type task finish milestone
+Loop - Coordinate Shutdown for Tie-in Type Task Task Dependent,Task Dependent,20507,loop coordinate shutdown tiein type task task dependent
+E&I Silica Line - Install lighting Type Task Task Dependent,Task Dependent,23298,silica line install lighting type task task dependent
+E&I Silica Line - Mobilize at site Type Task Task Dependent,Task Dependent,23784,silica line mobilize site type task task dependent
+Silica Line - Complete Structural Works Type Task Finish Milestone,Finish Milestone,25344,silica line complete structural work type task finish milestone
+Silica Line - Pipe Rack Erection and/or Reinforce Existing Rack Type Task Task Dependent,Task Dependent,25264,silica line pipe rack erection andor reinforce existing rack type task task dependent
+Silica Line - Mobilization Type Task Task Dependent,Task Dependent,26416,silica line mobilization type task task dependent
+Silica Line - Civil FDNs Pipe Racks Type Task Task Dependent,Task Dependent,25720,silica line civil fdns pipe rack type task task dependent
+Silica Line - Civil FDNs Pumps Type Task Task Dependent,Task Dependent,23128,silica line civil fdns pump type task task dependent
+Silica Line -  Install pumps Type Task Task Dependent,Task Dependent,23422,silica line install pump type task task dependent
+Silica Line - Walkdown / Punch List / Correct PL Items Type Task Task Dependent,Task Dependent,26680,silica line walkdown punch list correct item type task task dependent
+Silica Line - Pipe Erection & Valves (w/Hydro) Type Task Task Dependent,Task Dependent,25360,silica line pipe erection valve whydro type task task dependent
+Silica Line - Complete Piping works Type Task Finish Milestone,Finish Milestone,24696,silica line complete piping work type task finish milestone
+TSF - Pipe Lining & Delivery at Site Type Task Task Dependent,Task Dependent,22748,pipe lining delivery site type task task dependent
+TSF - Mechanical Completion Type Task Finish Milestone,Finish Milestone,23132,mechanical completion type task finish milestone
+TSF - Complete Piping works Type Task Finish Milestone,Finish Milestone,23116,complete piping work type task finish milestone
+TSF - Piping Fabrication and Preassembly (w/Painting and RT) Type Task Task Dependent,Task Dependent,22740,piping fabrication preassembly wpainting type task task dependent
+TSF - Pipe Erection (w/ Hydro) Type Task Task Dependent,Task Dependent,22748,pipe erection hydro type task task dependent
+TSF - Walkdown / Punch List / Correct PL Items Type Task Task Dependent,Task Dependent,22675,walkdown punch list correct item type task task dependent
+E&I TSF - VFDs Installation (Verification) Type Task Task Dependent,Task Dependent,15712,vfds installation verification type task task dependent
+E&I TSF - Mobilize at site Type Task Task Dependent,Task Dependent,15856,mobilize site type task task dependent
+E&I TSF N- MCC Installation (Verification) Type Task Task Dependent,Task Dependent,22219,installation verification type task task dependent
+E&I TSF - Pull Cables & Tray Type Task Task Dependent,Task Dependent,22363,pull cable tray type task task dependent
+E&I TSF - Install Instruments and cables I/O System Type Task Task Dependent,Task Dependent,22443,install instrument cable system type task task dependent
+TSF - Civil FDNs Two (2) Slurry Pumps & Two (2) GSW Type Task Task Dependent,Task Dependent,22692,civil fdns slurry pump type task task dependent
+TSF - Mobilization Type Task Task Dependent,Task Dependent,22692,mobilization type task task dependent
+TSF - Complete Civil Works - Pumps Type Task Finish Milestone,Finish Milestone,22692,complete civil work pump type task finish milestone
+TSF - Erect / Install (2) Slurry Pumps & (2) GSW Pumps & Align Type Task Task Dependent,Task Dependent,22700,erect install slurry pump pump align type task task dependent
+TSF - Final Connections to Pumps & Valves Type Task Task Dependent,Task Dependent,23108,final connection pump valve type task task dependent
+TSF N- Erect / Install valvtech valves Type Task Task Dependent,Task Dependent,22700,erect install valvtech valve type task task dependent
+TSF N- Erect / Install FLOWROX valves Type Task Task Dependent,Task Dependent,22700,erect install flowrox valve type task task dependent
+TSF - Pipe Supports Erection Type Task Task Dependent,Task Dependent,22740,pipe support erection type task task dependent
+TSF - Complete Structural Works Type Task Finish Milestone,Finish Milestone,22740,complete structural work type task finish milestone
+FP - Delivery of Novec Gas (DELAYED) Type Task Task Dependent,Task Dependent,16360,delivery novec delayed type task task dependent

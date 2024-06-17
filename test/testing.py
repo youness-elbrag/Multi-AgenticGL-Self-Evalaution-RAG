@@ -1,8 +1,7 @@
+
 import os 
-import sys
+os.environ["DATA"] = "../engine/VectorDB//DATA/"
 
+path = os.getenv("DATA")
 
-if __name__ == "__main__":
-    data_path ="../src/VecotorDB/DATA/"
-    FILE = os.listdir(data_path)
-    print(FILE)
+print(os.listdir(path))
