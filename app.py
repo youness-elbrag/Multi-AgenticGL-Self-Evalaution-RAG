@@ -131,8 +131,8 @@ if selected == "LTSM-Task-DP":
         toggle_statu = False
         Analysis_dash(toggle_statu,st)
 
-        # toggle_statu_agent = False
-        # AgentInterpter(toggle_statu_agent,st)
+        toggle_statu_agent = False
+        AgentInterpter(toggle_statu_agent,st)
         
     if selected_model:
         handle_prediction(selected_model)

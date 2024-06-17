@@ -16,7 +16,7 @@ def execute_extracted_code(text,st):
     if code != "No code found.":
         if "st.plotly_chart" in code:
             try:
-                exec(code)
+                exec("")
             except Exception as e:
                 st.error(f"Error executing code: {e}")
         else:

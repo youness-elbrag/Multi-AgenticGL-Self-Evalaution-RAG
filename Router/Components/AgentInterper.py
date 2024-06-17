@@ -11,15 +11,19 @@ from langchain.memory import ConversationBufferMemory
 from Model.Memory import History_Chat
 
 
-PROMPT_Helper_1 =  """ 
-   In DataFrame Given data to use  df 
- \n1. if Plots use plotly and  warm up The fig with st.plotly_chart() for support Web UI Display, 
- \n2. Set pip command Packages to instal In Bash at Once Terminal \n3. Code In Python langauge Progarmming 
- 
- """
-PROMPT_Helper_2 = """
-\nhere the Following Answer given by your Question and Instalation Process Lib if was needed
+PROMPT_Helper_1 = """
+System: You are tasked with performing data analysis and visualization using a given DataFrame named `df`.\n
+- Follow these instructions: \n
+
+1. If creating plots, use the Plotly library and ensure the figure is warmed up with `st.plotly_chart()` for web UI display support. \n
+2. Provide the necessary pip install command for any required packages to be executed in a bash terminal.\n
+3. Write the code in Python. \n
 """
+
+PROMPT_Helper_2 = """
+Below is the answer to your question along with the installation process for any required libraries:
+"""
+
 
 HANDLING_PROMPT_1 = """
 Here's how to do it:
@@ -46,8 +50,8 @@ def AgentExecutor(Agent,df,prompt,Helper_prompt,Memory=memory):
                 handle_parsing_errors=HANDLING_PROMPT_1,
                 max_iterations=15,
                 early_stopping_method  = "force",
-                agent_executor_kwargs={"memory": Memory,  "return_intermediate_steps": True},
                 memory=Memory,
+                return_intermediate_seps= True,
                 )   
                 
 
@@ -82,7 +86,8 @@ def PromptEngineering(model_name,temp,prompt,st):
                             execute_pip_code(Respond,st)   
                             execute_extracted_code(Respond,st)
                             History_Memory(prompt_agent,Respond,st)
-
+    
+    
             
        
     elif TYPEAGENT == "ReACT-Agent":
@@ -114,7 +119,7 @@ def AgentInterpter(toggle_statu_agent,st):
 
     if st.toggle("Agnet Analysis Result", value=toggle_statu_agent, disabled=False):
         if not st.session_state.multi_task_df:
-            st.error("No data available. Please ensure there a Prediction Tasks in Session  to comp")
+            st.error("No data available. Please ensure there a Prediction Tasks in Session")
         else:
             st.markdown("#### Agent Interpter Statu: Activated ")
             History_Chat(st)
@@ -133,7 +138,6 @@ def AgentInterpter(toggle_statu_agent,st):
                 PromptEngineering(model_name,temp,costum_prompt,st)
             else:
                 PROMPT = PROMPT_Helper_1
-                st.write_stream(stream_data(PROMPT))
                 PromptEngineering(model_name,temp,PROMPT,st)
 
 
