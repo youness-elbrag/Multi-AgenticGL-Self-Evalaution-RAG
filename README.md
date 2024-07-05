@@ -1,4 +1,4 @@
-## Planing Project PFE : Alignment Corrective RAG Personalization System and LTSM Duration Prediction Task
+## Alignment Self-Evaluation RAG Personalization System and LTSM Duration Prediction Task
 
  **The problematic:**
 
@@ -45,7 +45,7 @@ sudo chmod +x app.sh && ./app.sh
  may we isolate the each model in seperate way to predict each part of PFE but include in UI as Selected to use the model independently but inseatd using LLM as Agent we will use Tranditional Model REgression to predict Gross margin 
 
 <div align="center">
-    <img src="assets/Option1.png"/></br>
+    <img src="assets/Self-EvaluationRAG.svg"/></br>
     <figcaption>AI-powered Margin prediction analysis</figcaption>
 </div>
 
@@ -127,4 +127,11 @@ This section outlines the pipeline for developing an AI model using Long Short-T
     - Conduct a thorough analysis of model performance to identify potential areas for improvement, such as exploring alternative LSTM architectures or incorporating additional features.
 
 
-#### Streamlit APP UI 
+#### Deployment full Application LangChan
+
+
+<div align="center">
+    <img src="assets/System.gif"/></br>
+    <figcaption>AI-powered Margin prediction analysis</figcaption>
+</div>
+

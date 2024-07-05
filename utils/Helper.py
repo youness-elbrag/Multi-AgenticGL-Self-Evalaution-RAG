@@ -16,7 +16,11 @@ def execute_extracted_code(text,st):
     if code != "No code found.":
         if "st.plotly_chart" in code:
             try:
-                exec("")
+                if not st.session_state.multi_task_df:
+                     st.error("No data available. Please ensure there a Prediction Tasks in Session  to comp")
+                else:
+                      df = st.session_state.multi_task_df[-1]
+                      exec(code)
             except Exception as e:
                 st.error(f"Error executing code: {e}")
         else:
@@ -47,14 +51,14 @@ def execute_pip_code(text , st):
                         time.sleep(1)
                         st.success(f"Installed model {package}")
                         st.success(result.stdout)
-                        #st.session_state.model_ready = True 
+                        #st.session_state.model_ready = True
                         status.update(label="Installation complete!", state="complete", expanded=False)
                     else:
                         st.error(f"Failed to download model {package}: {stderr.decode()}")
-        
+
             except subprocess.CalledProcessError as e:
                 st.error(f"Error:{e}")
-            
+
         else:
             return st.error(f"the command not Executabel {cmd}")
 

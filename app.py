@@ -16,7 +16,7 @@ st.set_page_config(
     page_title="MSA-Multi-Agent-System Planner",
     layout="wide",
     initial_sidebar_state="collapsed",
-    page_icon="assets/logo.png",
+    page_icon="assets/wordmark.png"
 )
 
 

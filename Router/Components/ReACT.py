@@ -8,6 +8,8 @@ from langchain_experimental.tools.python.tool import PythonAstREPLTool
 from langchain_openai import ChatOpenAI
 
 
+
+
 PREFIX = """
             You are working with a pandas dataframe in Python. The name of the dataframe is `df`.
             You should use the tools below to answer the question posed of you:
@@ -31,6 +33,7 @@ def ReACT_DataFrame_Agent(
     callback_manager: Optional[BaseCallbackManager] = None,
     prefix: str = PREFIX,
     suffix: str = SUFFIX,
+    memory = None ,
     input_variables: Optional[List[str]] = None,
     verbose: bool = False,
     return_intermediate_steps: bool = False,
@@ -83,5 +86,5 @@ def ReACT_DataFrame_Agent(
         max_execution_time=max_execution_time,
         early_stopping_method=early_stopping_method,
         callback_manager=callback_manager,
-        memory = None
+        memory = memory
     )

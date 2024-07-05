@@ -10,6 +10,7 @@ from Model.Memory import History_Memory
 from langchain.memory import ConversationBufferMemory
 from Model.Memory import History_Chat
 
+memory = ConversationBufferMemory(memory_key="chat_history")
 
 PROMPT_Helper_1 = """
 System: You are tasked with performing data analysis and visualization using a given DataFrame named `df`.\n
@@ -40,9 +41,9 @@ PREFIX = """
             
          """
 
-memory = ConversationBufferMemory(memory_key="chat_history", input_key="input",return_messages=True)
+memory = ConversationBufferMemory(memory_key="chat_history")
 
-def AgentExecutor(Agent,df,prompt,Helper_prompt,Memory=memory):
+def AgentExecutor(Agent,df,prompt,Helper_prompt):
     agent_analysis = create_pandas_dataframe_agent(
                 Agent,df,
                 verbose=True,
@@ -50,8 +51,9 @@ def AgentExecutor(Agent,df,prompt,Helper_prompt,Memory=memory):
                 handle_parsing_errors=HANDLING_PROMPT_1,
                 max_iterations=15,
                 early_stopping_method  = "force",
-                memory=Memory,
+                memory=memory,
                 return_intermediate_seps= True,
+                allow_dangerous_code=True,
                 )   
                 
 
@@ -79,40 +81,47 @@ def PromptEngineering(model_name,temp,prompt,st):
             if model_name:
                 if model_name in st.session_state.list_model:
                     with st.spinner("Reasoning Agent Executor Steps..."):
-                        Respond = AgentExecutor(agent,df,prompt_agent,Helper_prompt=prompt,Memory=memory)
+                        Respond = AgentExecutor(agent,df,prompt_agent,Helper_prompt=prompt)
                         with st.chat_message("assistant"):
                             st.write_stream(stream_data(Respond))
                             time.sleep(5)
                             execute_pip_code(Respond,st)   
                             execute_extracted_code(Respond,st)
-                            History_Memory(prompt_agent,Respond,st)
+                        History_Memory(prompt_agent,Respond,st)
+
+            else:
+                st.error("Model is not available. Please wait for the download to complete.")
+
     
     
             
        
     elif TYPEAGENT == "ReACT-Agent":
-        prompt = PREFIX
         if prompt_agent := st.chat_input(f"ask Agent-Analysis for given Prediction to analysis..."):
             with st.chat_message("user"):
                 st.markdown(prompt_agent)
             if model_name:
                 if model_name in st.session_state.list_model:
                     with st.spinner("Reasoning Agent Executor Steps..."):
-                        Respond = ReACT_DataFrame_Agent(agent,df,prefix=prompt,
+                        AnalysisAgent = ReACT_DataFrame_Agent(agent,df,
                                 max_iterations=15,
                                 early_stopping_method  = "force",
                                 return_intermediate_steps=True, 
+                                verbose=True,
                                 memory=memory,
-                        ).invoke(prompt_agent)
-                        with st.chat_message("assistant"):
-                            st.write_stream(stream_data(Respond))
-                            time.sleep(5)
-                            execute_pip_code(Respond,st)   
-                            execute_extracted_code(Respond,st)
+                        )
+                        Respond = AnalysisAgent.invoke(prompt_agent)
+                        if Respond is not None:
+                            with st.chat_message("assistant"):
+                                st.write_stream(stream_data(Respond))
                             History_Memory(prompt_agent,Respond,st)
 
+            else:
+                st.error("Model is not available. Please wait for the download to complete.")
+
     else:
-        st.error("Model is not available. Please wait for the download to complete.")
+        st.error("Limited Selected Agent")
+
 
 
 def AgentInterpter(toggle_statu_agent,st):

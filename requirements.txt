@@ -11,5 +11,7 @@ pandas
 streamlit_option_menu
 streamlit
 pysqlite3-binary
-
-
+plotly
+langchain-openai
+langchain_experimental
+tabulate
